@@ -1,7 +1,7 @@
 <h1>Weather App</h1>
 
 <h2>Description</h2>
-Project consists of a simple HTML/JavaScript script that shows the user the weather conditions anywhere in the world. The utility allows you to select any city or country to display the real-time temperature, humidity and wind speed.
+This project consists of a simple HTML/JavaScript script that shows the user the weather conditions anywhere in the world. The utility allows you to select any city or country to display the real-time temperature, humidity and wind speed.
 The app utilizes the OpenWeatherMap API to fetch the weather data, and updating the UI accordingly.
 <br />
 
