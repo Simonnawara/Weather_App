@@ -14,7 +14,7 @@ The app utilizes the OpenWeatherMap API to fetch the weather data, and updating 
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 10</b> (24H1)
 <!--
  ```diff
 - text in red
